@@ -19,7 +19,15 @@
       "tintColor": "#fc0404",
       "category": "other",
       "screenshots": [],
-      "versions": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2025-05-29",
+          "notes": "- Versi\u00f3n inicial.",
+          "downloadURL": "https://tusitio.com/undertale.ipa",
+          "localizedDescription": "Versi\u00f3n jugable de UNDERTALE para iOS"
+        }
+      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
