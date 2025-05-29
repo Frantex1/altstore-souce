@@ -56,6 +56,7 @@
           "downloadURL": "https://www.dropbox.com/scl/fi/4f2b36w6qij7iut0l53t7/Fall-Guys-18.0.0.ipa?rlkey=0ctmhfagndo9ql3copzs6uupm&dl=1",
           "localizedDescription": "Versión móvil de Fall Guys para iOS",
           "size": 2007892211
+          "notarized": false
         }
       ],
       "appPermissions": {
