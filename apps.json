@@ -42,12 +42,22 @@
       "marketplaceID": "",
       "developerName": "Example Developer",
       "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "localizedDescription": "Versión móvil de Fall Guys para iOS",
       "iconURL": "https://i.imgur.com/NKDNvTv.png",
       "tintColor": "#04c0f4",
       "category": "other",
       "screenshots": [],
-      "versions": [],
+      "versions": [
+        {
+          "version": "18.0.0",
+          "buildVersion": "18.0.0",
+          "date": "2025-05-29",
+          "notes": "- Primera versión pública.",
+          "downloadURL": "https://www.dropbox.com/scl/fi/4f2b36w6qij7iut0l53t7/Fall-Guys-18.0.0.ipa?rlkey=0ctmhfagndo9ql3copzs6uupm&dl=1",
+          "localizedDescription": "Versión móvil de Fall Guys para iOS",
+          "size": 2007892211
+        }
+      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
@@ -57,3 +67,4 @@
   ],
   "news": []
 }
+
