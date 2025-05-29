@@ -1,0 +1,49 @@
+{
+  "name": "Frantex Apps",
+  "subtitle": "Apps certificadas por Frantex",
+  "description": "Estas son las apps que uso",
+  "iconURL": "https://i.imgur.com/AyFvQ4d.png",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#97d45f",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "UNDERTALE",
+      "bundleIdentifier": "com.jockeholm.undertale",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/t7yd2Mh.png",
+      "tintColor": "#fc0404",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "FallGuys",
+      "bundleIdentifier": "uk.co.mediatonic.fallguys",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/NKDNvTv.png",
+      "tintColor": "#04c0f4",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
