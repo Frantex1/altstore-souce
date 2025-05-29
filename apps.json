@@ -14,17 +14,18 @@
       "marketplaceID": "",
       "developerName": "Example Developer",
       "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "localizedDescription": "Versión jugable de UNDERTALE para iOS",
       "iconURL": "https://i.imgur.com/t7yd2Mh.png",
       "tintColor": "#fc0404",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "version": "1.0",
+          "version": "1.08",
+          "buildVersion": "1.08",
           "date": "2025-05-29",
-          "notes": "- Versión inicial.",
-          "downloadURL": "https://www.dropbox.com/scl/fi/wdegttov4vjxq20f5037p/UNDERTALE-v1.08.ipa?rlkey=jo0ydo3xomuuei8pyl1qti4i6&st=8eqb2t14&dl=1",
+          "notes": "- Versión estable 1.08",
+          "downloadURL": "https://www.dropbox.com/s/abc123/UNDERTALE.ipa?dl=1",
           "localizedDescription": "Versión jugable de UNDERTALE para iOS",
           "size": 140504128
         }
