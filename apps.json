@@ -14,7 +14,7 @@
       "marketplaceID": "",
       "developerName": "Example Developer",
       "subtitle": "An awesome app.",
-      "localizedDescription": "Versión jugable de UNDERTALE para iOS",
+      "localizedDescription": "Versi\u00f3n jugable de UNDERTALE para iOS",
       "iconURL": "https://i.imgur.com/t7yd2Mh.png",
       "tintColor": "#fc0404",
       "category": "other",
@@ -24,10 +24,10 @@
           "version": "1.08",
           "buildVersion": "1.08",
           "date": "2025-05-29",
-          "notes": "- Versión estable 1.08",
+          "notes": "- Versi\u00f3n estable 1.08",
           "downloadURL": "https://www.dropbox.com/s/abc123/UNDERTALE.ipa?dl=1",
-          "localizedDescription": "Versión jugable de UNDERTALE para iOS",
-          "size": 140504128
+          "localizedDescription": "Versi\u00f3n jugable de UNDERTALE para iOS",
+          "size": 140504128,
           "notarized": false
         }
       ],
@@ -43,7 +43,7 @@
       "marketplaceID": "",
       "developerName": "Example Developer",
       "subtitle": "An awesome app.",
-      "localizedDescription": "Versión móvil de Fall Guys para iOS",
+      "localizedDescription": "Versi\u00f3n m\u00f3vil de Fall Guys para iOS",
       "iconURL": "https://i.imgur.com/NKDNvTv.png",
       "tintColor": "#04c0f4",
       "category": "other",
@@ -53,10 +53,10 @@
           "version": "18.0.0",
           "buildVersion": "18.0.0",
           "date": "2025-05-29",
-          "notes": "- Primera versión pública.",
+          "notes": "- Primera versi\u00f3n p\u00fablica.",
           "downloadURL": "https://www.dropbox.com/scl/fi/4f2b36w6qij7iut0l53t7/Fall-Guys-18.0.0.ipa?rlkey=0ctmhfagndo9ql3copzs6uupm&dl=1",
-          "localizedDescription": "Versión móvil de Fall Guys para iOS",
-          "size": 2007892211
+          "localizedDescription": "Versi\u00f3n m\u00f3vil de Fall Guys para iOS",
+          "size": 2007892211,
           "notarized": false
         }
       ],
@@ -69,4 +69,3 @@
   ],
   "news": []
 }
-
