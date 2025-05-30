@@ -28,6 +28,7 @@
           "downloadURL": "https://www.dropbox.com/s/abc123/UNDERTALE.ipa?dl=1",
           "localizedDescription": "Versión jugable de UNDERTALE para iOS",
           "size": 140504128
+          "notarized": false
         }
       ],
       "appPermissions": {
